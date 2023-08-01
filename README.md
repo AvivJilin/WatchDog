@@ -40,7 +40,8 @@ To build the Watchdog client program (`wd_test.out`), utilize the provided `make
     make
 
 The makefile will compile the source files and link them with the libwatchdog.so shared object.
-Usage
+
+## Usage
 
 To incorporate the Watchdog functionality into your client program, you need to do the following:
 
