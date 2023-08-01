@@ -10,7 +10,7 @@ The Watchdog Project is designed to provide a safety net for critical code segme
 
 Before using the Watchdog Project, ensure you have the following directory structure in your project:
 
-    ```src
+    src
     |- sorted_list.c
     |- dlist.c
     |- p_queue.c
@@ -31,7 +31,7 @@ Before using the Watchdog Project, ensure you have the following directory struc
     test
     |- wd_test.c
 
-    makefile```
+    makefile
 
 ## Building the Watchdog Client
 
